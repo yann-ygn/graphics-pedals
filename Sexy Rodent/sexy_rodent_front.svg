@@ -137,7 +137,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Controls"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g3389"
        transform="translate(53.983282,11.903343)"
@@ -353,7 +354,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Pedal Layout"
-     style="display:inline;opacity:0.193218"
+     style="display:none;opacity:0.193218"
      sodipodi:insensitive="true">
     <g
        id="g13943"
