@@ -5,7 +5,7 @@
    viewBox="0 0 62 117"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="sexy_rodent_front.svg"
    inkscape:export-filename="/home/yann/_dev/98 - Graphics/graphics-pedals/Shining Pig/shining_pig_front_9V.png"
    inkscape:export-xdpi="96"
@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.8383372"
-     inkscape:cx="134.11353"
-     inkscape:cy="288.35265"
+     inkscape:zoom="1.032082"
+     inkscape:cx="-164.7156"
+     inkscape:cy="263.0605"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="true"
      inkscape:window-width="3836"
@@ -40,15 +40,18 @@
      inkscape:window-maximized="1"
      showborder="true"
      inkscape:showpageshadow="false"
-     inkscape:pagecheckerboard="true">
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        position="-2.0168617,58.500093"
        orientation="0,117.16536"
-       id="guide1967" />
+       id="guide1967"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="31.001653,138.8865"
        orientation="-221.10236,0"
-       id="guide1969" />
+       id="guide1969"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid1973"
@@ -66,7 +69,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -388,7 +390,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Pedal Layout"
-     style="display:inline;opacity:0.193218"
+     style="display:none;opacity:0.193218"
      sodipodi:insensitive="true">
     <g
        id="g13943"
