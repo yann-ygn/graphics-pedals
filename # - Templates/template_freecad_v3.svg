@@ -7,7 +7,7 @@
    viewBox="0 0 68 119"
    version="1.1"
    id="svg319"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="template_freecad_v3.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,9 +26,9 @@
      showgrid="true"
      showborder="true"
      showguides="true"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="129.93087"
-     inkscape:cy="322.08714"
+     inkscape:zoom="90.509668"
+     inkscape:cx="121.80467"
+     inkscape:cy="184.32837"
      inkscape:current-layer="layer1"
      guidecolor="#ff031d"
      guideopacity="0.6"
@@ -86,7 +86,9 @@
        opacity="0.14901961"
        empcolor="#559253"
        empopacity="0.30196078"
-       visible="true" />
+       visible="true"
+       originx="0"
+       originy="0" />
     <sodipodi:guide
        position="0,9.9799998"
        orientation="0,1"
@@ -126,8 +128,8 @@
     <path
        id="rect1050"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
-       d="m 134.82377,-40.085241 v 3.408588 h -2.41484 v -0.0047 h -0.36173 v 1.122412 h 0.36173 v -0.765328 h 2.41484 v 0.765328 h 0.35192 v -0.765328 h 2.41226 v 0.765328 h 0.36173 v -1.122412 h -0.36173 v 0.0047 h -2.41226 v -3.408588 z"
-       sodipodi:nodetypes="ccccccccccccccccccccc"
+       d="m 134.82377,-40.085241 v 3.408588 h -2.77657 v 1.117712 h 0.36173 v -0.765328 h 2.41484 v 0.765328 h 0.35192 v -0.765328 h 2.41226 v 0.765328 h 0.36173 v -1.117712 h -2.77399 v -3.408588 z"
+       sodipodi:nodetypes="ccccccccccccccccc"
        inkscape:label="SELECTOR" />
     <path
        id="path5455"
