@@ -5,9 +5,9 @@
    viewBox="0 0 62 117"
    version="1.1"
    id="svg8"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="bass_preamp_front.svg"
-   inkscape:export-filename="/home/yann/_dev/98 - Graphics/graphics-pedals/Shining Pig/shining_pig_front_9V.png"
+   inkscape:export-filename="graphic.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="129.75"
-     inkscape:cy="227.75"
+     inkscape:cx="68.375"
+     inkscape:cy="210.875"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
@@ -59,7 +59,10 @@
        enabled="true"
        originx="31.000001"
        originy="58.500002"
-       dotted="false" />
+       dotted="false"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
