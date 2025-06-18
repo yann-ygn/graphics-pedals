@@ -29,10 +29,10 @@
      showgrid="true"
      showborder="true"
      showguides="true"
-     inkscape:zoom="32"
-     inkscape:cx="118.07812"
-     inkscape:cy="21.765625"
-     inkscape:current-layer="g4"
+     inkscape:zoom="256"
+     inkscape:cx="121.24805"
+     inkscape:cy="170.9707"
+     inkscape:current-layer="g9340"
      guidecolor="#ff031d"
      guideopacity="0.6"
      inkscape:lockguides="false"><sodipodi:guide
@@ -332,7 +332,7 @@
          inkscape:label="CLIP" /><path
          id="rect1050"
          style="fill:#2e2e2e;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none"
-         d="m 33.823775,41.503441 v 3.408588 h -2.41484 v -0.0047 H 31.0472 v 1.122412 h 0.361735 v -0.765328 h 2.41484 v 0.765328 h 0.351917 v -0.765328 h 2.412256 v 0.765328 h 0.361735 v -1.122412 h -0.361735 v 0.0047 h -2.412256 v -3.408588 z"
+         d="m 33.823775,41.503441 v 3.408588 h -2.41484 v 0 H 31.0472 v 1.117712 h 0.361735 v -0.765328 h 2.41484 v 0.765328 h 0.351917 v -0.765328 h 2.412256 v 0.765328 h 0.361735 v -1.117712 h -0.361735 v 0 h -2.412256 v -3.408588 z"
          sodipodi:nodetypes="ccccccccccccccccccccc"
          inkscape:label="SELECTOR"
          transform="translate(0,3)" /><path
